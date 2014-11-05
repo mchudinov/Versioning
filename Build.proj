@@ -3,7 +3,7 @@
 
     <PropertyGroup>
         <Configuration>Release</Configuration>
-        <SolutionName>VersioningPackaging</SolutionName>
+        <SolutionName>Versioning</SolutionName>
     </PropertyGroup>
 
     <Target Name="Run">
